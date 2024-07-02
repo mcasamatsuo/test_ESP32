@@ -4,8 +4,8 @@
 // Wi-Fiを使うためWiFi.hをインクルード
 #include <WiFi.h>
 // Wi-Fi接続情報を入力(IPアドレス自動取得)
-const char* ssid = "Buffalo-G-86AE";
-const char* password = "5vbn8rtibb74t";
+const char* ssid = "xxxxxxxx";
+const char* password = "yyyyyyyy";
 // ウェブサーバーをポート80で開始
 WiFiServer server(80);
 // HTTPリクエストを保存しておく変数
